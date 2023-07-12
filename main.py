@@ -15,7 +15,7 @@ dp = Dispatcher(bot, storage=MemoryStorage())
 logging.basicConfig(level=logging.INFO)
 
 input_imgs = './input_imgs/input.jpg'
-output_imgs = './output_imgs/output.png'
+output_imgs = './output_imgs/штзге_output.png'
 
 
 # Обработка команд
